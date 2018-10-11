@@ -25,7 +25,9 @@ int Resta(int a,int b)
 
 int Multiplicacion(int a,int b)
 {
-
+	int resultado;
+	resultado= a * b;
+	return resultado;
 
 }
 
