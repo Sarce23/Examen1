@@ -23,6 +23,8 @@ int main()
 	Resultado2 = Resta(a,b);
 	Resultado3 = Multiplicacion(a,b);
 	Resultado4 = Divicion(a,b);
+
+	printf("Resultados: Suma: %d, Resta: %d, Multiplicacion: %d,Divicion: %f",Resultado1,Resultado2,Resultado3,Resultado4);
 	return 0;
 }
 
